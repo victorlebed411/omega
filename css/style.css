@@ -1,0 +1,244 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+
+    margin: 0 auto;
+    font-family: "Exo 2";
+    background-color: #d0c1e5;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+header {
+}
+.container {
+    width: 1010px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.top-header {
+    border-bottom: 1px;
+    border-bottom-color: #2d292f;
+}
+.time span {
+    font-size: 10px;
+    text-transform: none;
+    color: #9d8eb2;
+}
+header .top-header .mail .phone {
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.top-header a {
+     color: #9d8eb2;
+    text-decoration: none;
+
+ }
+.header-menu li {
+    font-size: 16px;
+    color: #ffffff;
+}
+.paragraph-header {
+    font-size: 20px;
+    color: #d0c1e5;
+    text-align: center;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+.login button {
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #6b5382;
+    border: 0;
+    width: 240px;
+    height: 45px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.content .left-act h1 {
+    font-size: 24px;
+    color: #654690;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.left-act p {
+    font-size: 15px;
+    color: #232323;
+    text-height: 18px;
+}
+.item-act span {
+    font-size: 22px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.right-act a {
+    font-size: 16px;
+    color: #ae80ec;
+    text-decoration: none;
+}
+.advantage h1 {
+    color: #060606;
+}
+.advantage p {
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 18px;
+}
+.left-adv p {
+    font-size: 13px;
+    line-height: 16px;
+}
+.right-adv p {
+    font-size: 13px;
+    line-height: 16px;
+}
+.man {
+    width: 400px;
+    height: 435px;
+}
+.advantage .man {
+background: url(../img/png/man.png) no-repeat center top / cover;
+}
+.advantage span {
+    font-size: 20px;
+    color: #060606;
+    line-height: 22px;
+}
+
+.demonstration h1 {
+    color: #ffffff;
+    text-align: center;
+}
+.demonstration p {
+    font-size: 18px;
+    line-height: 20px;
+}
+.circle{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    background: #ffffff;
+}
+.investments p {
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+}
+/*.circle-inv {*/
+    /*border-radius: 100%;*/
+    /*width: 230px;*/
+    /*height: 230px;*/
+    /*background: #060606;*/
+
+/*}*/
+/*.circle-inv span {*/
+    /*font-size: 15px;*/
+    /*color: #ffffff;*/
+    /*text-align: center;*/
+/*}*/
+
+.inv-item button {
+    width: 155px;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    color: #7a6499;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    border: 2px double #7a6499;
+}
+.calculator-left .calc span {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 500;
+}
+.calculator-left span {
+    font-size: 18px;
+    color: #ffffff;
+}
+.calculator label {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 300;
+}
+.calculator-right span {
+    font-size: 40px;
+    font-weight: 500;
+    color: #ffffff;
+}
+.graph {
+    background: url(../img/png/graph.png) no-repeat center top / cover;
+    width: 240px;
+    height: 460px;
+}
+.stat-column {
+    width: 375px;
+    height: 185px;
+}
+.stat-left span {
+    font-size: 24px;
+    font-weight: 500;
+    color: #343434;
+}
+.stat-item-dark span {
+    font-size: 15px;
+    font-weight: 300;
+    color: #595959;
+    background-color: #fafafa;
+}
+ span.numeral {
+    color: #a99cbc;
+    font-size: 15px;
+    font-weight: 700;
+}
+.stat-item span {
+    font-size: 15px;
+    font-weight: 300;
+    color: #595959;
+    background-color: #fefefe;
+}
+.stat-item span.numeral {
+    color: #a99cbc;
+    font-size: 15px;
+    font-weight: 700;
+}
+.stat-centre span{
+    font-size: 24px;
+    font-weight: 500;
+    color: #343434;
+}
+.stat-centre .stat-item {
+    background-color: #f6f6f6;
+}
+.stat-centre .stat-item span {
+    font-size: 15px;
+    color: #4e4d4d;
+
+}
+.stat-centre .stat-item {
+    background: #fdfdfd;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
